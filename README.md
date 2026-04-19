@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Bruno Costa!
 
-<!--
-**bcosta19/bcosta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend (Laravel)  
+📱 Experiência com Flutter  
+🎓 Estudante de Ciência da Computação (UFF)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou desenvolvedor com foco em backend utilizando Laravel, com experiência em criação de APIs REST e integração com bancos de dados. Também atuo com Flutter no desenvolvimento de aplicações mobile.
+
+Tenho interesse em construir sistemas eficientes e resolver problemas reais através da tecnologia.
+
+---
+
+## 🛠️ Tecnologias
+
+- Backend: Laravel, Java (Spring Boot)
+- Frontend: React, HTML, CSS, JavaScript
+- Mobile: Flutter
+- Banco de Dados: MySQL, SQLite
+- Linguagens: Python, C
+- Ferramentas: Git, Linux
+
+---
+
+## 📌 Projetos em destaque
+
+### 📱 Planner de Tarefas
+Aplicação full stack em Flutter com SQLite  
+🔗 https://github.com/bcosta19/planner_tarefas  
+
+### 🛒 Loja de Pesca (Full Stack)
+Backend em Spring Boot + Frontend em React  
+🔗 https://github.com/bcosta19/desweb  
+
+### 🚗 App de Caronas
+Frontend em Flutter  
+🔗 https://github.com/ES-2024-1-SDC/sdc-front  
+
+---
+
+## 📫 Contato
+📧 brpassos19@gmail.com
