@@ -18,7 +18,7 @@ Tenho interesse em construir sistemas eficientes e resolver problemas reais atra
 - Backend: Laravel, Java (Spring Boot)
 - Frontend: React, HTML, CSS, JavaScript
 - Mobile: Flutter
-- Banco de Dados: MySQL, SQLite
+- Banco de Dados: MySQL, SQLite, PostgreSQL
 - Linguagens: Python, C
 - Ferramentas: Git, Linux
 
